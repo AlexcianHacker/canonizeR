@@ -1,5 +1,5 @@
 # <p align="center"> canonizeR 
-<p align="center"> A Simple CLI Linux/Unix Utility, Rewritten In RS 
+<p align="center"> A Simple CLI Linux/Unix Utility, Rewritten In RS From C++ Originally 
 <p align="center"> Originally Compiled With rustc 
 
 ### Setup 
