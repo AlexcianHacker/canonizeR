@@ -5,7 +5,7 @@
 ### Setup 
 Run `rustc -o canonizer canonize.rs`
 
-Note (rustc): -O3 Optimizations ???? 
+Note (rustc): `-C opt-level=3` Optimizations Tested As Working 
 
 ### Usage  
 `./canonizer <Preferred (New) Command Name> <Execution Path,...>`
